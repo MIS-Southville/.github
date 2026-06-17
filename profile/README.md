@@ -18,6 +18,9 @@ We utilize a modern stack to build robust and scalable applications:
 - **Backend & Frameworks:** PHP, Laravel
 - **Databases & Systems:** MySQL
 - **Tools & Workflow:** Git, GitHub, XAMPP, Visual Studio Code, Antigravity
+- **Deployement & Infrastructure:** Linux, Apache
+- **Cloud & Hosting:** AWS, On Premise
+- **AI Tools:** ChatGPT, Gemini
 
 ---
 
