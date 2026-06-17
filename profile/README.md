@@ -5,24 +5,23 @@ Welcome to the official GitHub organization of the **MIS Department** at Southvi
 
 ---
 
-## 🚀 Our Mission
+## Our Mission
 To deliver innovative, secure, and user-centric technological solutions that streamline educational administration, enhance teaching and learning, and connect the Southville community.
 
 ---
 
-## 🛠️ Tech Stack & Capabilities
+## Tech Stack & Capabilities
 
 We utilize a modern stack to build robust and scalable applications:
 
 - **Frontend:** HTML5, CSS3, JavaScript, React.js, Bootstrap / Tailwind CSS
-- **Backend & Frameworks:** PHP, Laravel, Node.js
-- **Databases & Systems:** MySQL, PostgreSQL, Redis
-- **Content Management:** WordPress
-- **Tools & Workflow:** Git, GitHub, Docker, XAMPP
+- **Backend & Frameworks:** PHP, Laravel
+- **Databases & Systems:** MySQL
+- **Tools & Workflow:** Git, GitHub, XAMPP, Visual Studio Code, Antigravity
 
 ---
 
-## 💻 What We Do
+## What We Do
 
 * **Portal Development:** Creating and maintaining portals for Students, Parents, Faculty, and Alumni.
 * **School Management Systems:** Streamlining grading, enrollment, scheduling, and billing systems.
@@ -31,7 +30,7 @@ We utilize a modern stack to build robust and scalable applications:
 
 ---
 
-## 📬 Contact & Support
+## Contact & Support
 
 If you are a student, faculty member, or parent needing technical assistance, please reach out to us:
 
@@ -40,4 +39,4 @@ If you are a student, faculty member, or parent needing technical assistance, pl
 - **Location:** Las Piñas City, Metro Manila, Philippines
 
 ---
-*Developed with 💙 by the MIS Southville Team.*
+*Developed by the MIS Southville Team.*
