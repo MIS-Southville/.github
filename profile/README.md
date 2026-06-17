@@ -1,4 +1,4 @@
-# MIS Southville 🏢🎓
+# MIS Southville
 ### Management Information System | Southville International School and Colleges
 
 Welcome to the official GitHub organization of the **MIS Department** at Southville International School and Colleges. We design, develop, and maintain the digital infrastructure, web portals, and software systems that power Southville's academic and operational excellence.
